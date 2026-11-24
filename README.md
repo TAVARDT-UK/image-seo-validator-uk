@@ -2,6 +2,7 @@
 
 [![Image SEO Auditor](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/uk/image-seo-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audits alt text completeness, modern format adoption (WebP/AVIF), layout stability dimensions, and descriptive filenames.
 
@@ -15,7 +16,7 @@ Developed and maintained by the search architecture and visual accessibility div
 * **Next-Gen Format Adoption**: Evaluates deployment of modern WebP and AVIF formats against legacy JPEG and PNG files.
 * **Layout Shift Prevention (CLS)**: Confirms explicit `width` and `height` dimensional declarations.
 * **Lazy Loading Implementation**: Audits `loading="lazy"` attributes on non-critical images to speed up First Contentful Paint.
-* **Image Optimization Health Score**: Quantitative 0 to 100 health score with prioritized technical remediation steps.
+* **Image Optimisation Health Score**: Quantitative 0 to 100 health score with prioritized technical remediation steps.
 
 ***
 
@@ -46,9 +47,23 @@ For full web verification and deep image catalog audits:
 
 ***
 
-## Visual Accessibility and Media Optimization Advisory
+## Visual Accessibility and Media Optimisation Advisory
 
 For enterprise digital catalogues aligning with W3C WCAG Standards and UK Search Architecture Guidelines, contact the specialists at **TAVARDT**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: **TAVARDT UK Diagnostic Suite**
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
