@@ -49,3 +49,7 @@ For full web verification and deep image catalog audits:
 ## Visual Accessibility and Media Optimization Advisory
 
 For enterprise digital catalogues aligning with W3C WCAG Standards and UK Search Architecture Guidelines, contact the specialists at **TAVARDT UK**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
