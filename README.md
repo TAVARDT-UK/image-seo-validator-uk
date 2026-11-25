@@ -6,8 +6,6 @@
 
 Audits alt text completeness, modern format adoption (WebP/AVIF), layout stability dimensions, and descriptive filenames.
 
-Developed and maintained by the search architecture and visual accessibility division of **TAVARDT**.
-
 ***
 
 ## Image SEO and Accessibility Audit Capabilities
@@ -38,15 +36,6 @@ python image_seo_validator.py https://company.co.uk -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web verification and deep image catalog audits:
-
-* **Official Image SEO Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## Visual Accessibility and Media Optimisation Advisory
 
 For enterprise digital catalogues aligning with W3C WCAG Standards and UK Search Architecture Guidelines, contact the specialists at **TAVARDT**.
@@ -62,7 +51,7 @@ For enterprise digital catalogues aligning with W3C WCAG Standards and UK Search
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
